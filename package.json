@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.28.5",
+    "@slidev/theme-apple-basic": "^0.20.0",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  },
+  "name": "slidev-trial",
+  "devDependencies": {
+    "@iconify-json/logos": "^1.0.4",
+    "@iconify-json/vscode-icons": "^1.0.5",
+    "playwright-chromium": "^1.18.1"
+  }
+}
